@@ -1,0 +1,15 @@
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1929. Concatenation of Array\bin\Debug\net6.0\1929. Concatenation of Array.exe
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1929. Concatenation of Array\bin\Debug\net6.0\1929. Concatenation of Array.deps.json
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1929. Concatenation of Array\bin\Debug\net6.0\1929. Concatenation of Array.runtimeconfig.json
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1929. Concatenation of Array\bin\Debug\net6.0\1929. Concatenation of Array.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1929. Concatenation of Array\bin\Debug\net6.0\1929. Concatenation of Array.pdb
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1929. Concatenation of Array\obj\Debug\net6.0\1929. Concatenation of Array.csproj.AssemblyReference.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1929. Concatenation of Array\obj\Debug\net6.0\1929. Concatenation of Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1929. Concatenation of Array\obj\Debug\net6.0\1929. Concatenation of Array.AssemblyInfoInputs.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1929. Concatenation of Array\obj\Debug\net6.0\1929. Concatenation of Array.AssemblyInfo.cs
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1929. Concatenation of Array\obj\Debug\net6.0\1929. Concatenation of Array.csproj.CoreCompileInputs.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1929. Concatenation of Array\obj\Debug\net6.0\1929. Concatenation of Array.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1929. Concatenation of Array\obj\Debug\net6.0\refint\1929. Concatenation of Array.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1929. Concatenation of Array\obj\Debug\net6.0\1929. Concatenation of Array.pdb
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1929. Concatenation of Array\obj\Debug\net6.0\1929. Concatenation of Array.genruntimeconfig.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1929. Concatenation of Array\obj\Debug\net6.0\ref\1929. Concatenation of Array.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleApp11480. Running Sum of 1d Array/1.0.0": {
+        "runtime": {
+          "ConsoleApp11480. Running Sum of 1d Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp11480. Running Sum of 1d Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

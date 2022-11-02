@@ -1,0 +1,15 @@
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\06.Zigzag Conversion\bin\Debug\net6.0\06.Zigzag Conversion.exe
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\06.Zigzag Conversion\bin\Debug\net6.0\06.Zigzag Conversion.deps.json
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\06.Zigzag Conversion\bin\Debug\net6.0\06.Zigzag Conversion.runtimeconfig.json
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\06.Zigzag Conversion\bin\Debug\net6.0\06.Zigzag Conversion.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\06.Zigzag Conversion\bin\Debug\net6.0\06.Zigzag Conversion.pdb
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\06.Zigzag Conversion\obj\Debug\net6.0\06.Zigzag Conversion.csproj.AssemblyReference.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\06.Zigzag Conversion\obj\Debug\net6.0\06.Zigzag Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\06.Zigzag Conversion\obj\Debug\net6.0\06.Zigzag Conversion.AssemblyInfoInputs.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\06.Zigzag Conversion\obj\Debug\net6.0\06.Zigzag Conversion.AssemblyInfo.cs
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\06.Zigzag Conversion\obj\Debug\net6.0\06.Zigzag Conversion.csproj.CoreCompileInputs.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\06.Zigzag Conversion\obj\Debug\net6.0\06.Zigzag Conversion.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\06.Zigzag Conversion\obj\Debug\net6.0\refint\06.Zigzag Conversion.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\06.Zigzag Conversion\obj\Debug\net6.0\06.Zigzag Conversion.pdb
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\06.Zigzag Conversion\obj\Debug\net6.0\06.Zigzag Conversion.genruntimeconfig.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\06.Zigzag Conversion\obj\Debug\net6.0\ref\06.Zigzag Conversion.dll

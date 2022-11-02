@@ -1,0 +1,15 @@
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1512. Number of Good Pairs\bin\Debug\net6.0\1512. Number of Good Pairs.exe
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1512. Number of Good Pairs\bin\Debug\net6.0\1512. Number of Good Pairs.deps.json
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1512. Number of Good Pairs\bin\Debug\net6.0\1512. Number of Good Pairs.runtimeconfig.json
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1512. Number of Good Pairs\bin\Debug\net6.0\1512. Number of Good Pairs.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1512. Number of Good Pairs\bin\Debug\net6.0\1512. Number of Good Pairs.pdb
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1512. Number of Good Pairs\obj\Debug\net6.0\1512. Number of Good Pairs.csproj.AssemblyReference.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1512. Number of Good Pairs\obj\Debug\net6.0\1512. Number of Good Pairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1512. Number of Good Pairs\obj\Debug\net6.0\1512. Number of Good Pairs.AssemblyInfoInputs.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1512. Number of Good Pairs\obj\Debug\net6.0\1512. Number of Good Pairs.AssemblyInfo.cs
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1512. Number of Good Pairs\obj\Debug\net6.0\1512. Number of Good Pairs.csproj.CoreCompileInputs.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1512. Number of Good Pairs\obj\Debug\net6.0\1512. Number of Good Pairs.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1512. Number of Good Pairs\obj\Debug\net6.0\refint\1512. Number of Good Pairs.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1512. Number of Good Pairs\obj\Debug\net6.0\1512. Number of Good Pairs.pdb
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1512. Number of Good Pairs\obj\Debug\net6.0\1512. Number of Good Pairs.genruntimeconfig.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1512. Number of Good Pairs\obj\Debug\net6.0\ref\1512. Number of Good Pairs.dll

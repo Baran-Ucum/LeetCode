@@ -1,0 +1,15 @@
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1672.Richest Customer  Wealth\bin\Debug\net6.0\1672.Richest Customer  Wealth.exe
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1672.Richest Customer  Wealth\bin\Debug\net6.0\1672.Richest Customer  Wealth.deps.json
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1672.Richest Customer  Wealth\bin\Debug\net6.0\1672.Richest Customer  Wealth.runtimeconfig.json
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1672.Richest Customer  Wealth\bin\Debug\net6.0\1672.Richest Customer  Wealth.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1672.Richest Customer  Wealth\bin\Debug\net6.0\1672.Richest Customer  Wealth.pdb
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1672.Richest Customer  Wealth\obj\Debug\net6.0\1672.Richest Customer  Wealth.csproj.AssemblyReference.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1672.Richest Customer  Wealth\obj\Debug\net6.0\1672.Richest Customer  Wealth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1672.Richest Customer  Wealth\obj\Debug\net6.0\1672.Richest Customer  Wealth.AssemblyInfoInputs.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1672.Richest Customer  Wealth\obj\Debug\net6.0\1672.Richest Customer  Wealth.AssemblyInfo.cs
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1672.Richest Customer  Wealth\obj\Debug\net6.0\1672.Richest Customer  Wealth.csproj.CoreCompileInputs.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1672.Richest Customer  Wealth\obj\Debug\net6.0\1672.Richest Customer  Wealth.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1672.Richest Customer  Wealth\obj\Debug\net6.0\refint\1672.Richest Customer  Wealth.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1672.Richest Customer  Wealth\obj\Debug\net6.0\1672.Richest Customer  Wealth.pdb
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1672.Richest Customer  Wealth\obj\Debug\net6.0\1672.Richest Customer  Wealth.genruntimeconfig.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1672.Richest Customer  Wealth\obj\Debug\net6.0\ref\1672.Richest Customer  Wealth.dll

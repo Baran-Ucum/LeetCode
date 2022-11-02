@@ -1,0 +1,15 @@
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\13.Roman to Integer\bin\Debug\net6.0\13.Roman to Integer.exe
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\13.Roman to Integer\bin\Debug\net6.0\13.Roman to Integer.deps.json
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\13.Roman to Integer\bin\Debug\net6.0\13.Roman to Integer.runtimeconfig.json
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\13.Roman to Integer\bin\Debug\net6.0\13.Roman to Integer.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\13.Roman to Integer\bin\Debug\net6.0\13.Roman to Integer.pdb
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\13.Roman to Integer\obj\Debug\net6.0\13.Roman to Integer.csproj.AssemblyReference.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\13.Roman to Integer\obj\Debug\net6.0\13.Roman to Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\13.Roman to Integer\obj\Debug\net6.0\13.Roman to Integer.AssemblyInfoInputs.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\13.Roman to Integer\obj\Debug\net6.0\13.Roman to Integer.AssemblyInfo.cs
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\13.Roman to Integer\obj\Debug\net6.0\13.Roman to Integer.csproj.CoreCompileInputs.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\13.Roman to Integer\obj\Debug\net6.0\13.Roman to Integer.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\13.Roman to Integer\obj\Debug\net6.0\refint\13.Roman to Integer.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\13.Roman to Integer\obj\Debug\net6.0\13.Roman to Integer.pdb
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\13.Roman to Integer\obj\Debug\net6.0\13.Roman to Integer.genruntimeconfig.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\13.Roman to Integer\obj\Debug\net6.0\ref\13.Roman to Integer.dll

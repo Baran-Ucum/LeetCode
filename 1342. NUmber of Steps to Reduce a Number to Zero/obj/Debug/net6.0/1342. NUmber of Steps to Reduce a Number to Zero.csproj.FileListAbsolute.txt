@@ -1,0 +1,15 @@
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1342. NUmber of Steps to Reduce a Number to Zero\bin\Debug\net6.0\1342. NUmber of Steps to Reduce a Number to Zero.exe
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1342. NUmber of Steps to Reduce a Number to Zero\bin\Debug\net6.0\1342. NUmber of Steps to Reduce a Number to Zero.deps.json
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1342. NUmber of Steps to Reduce a Number to Zero\bin\Debug\net6.0\1342. NUmber of Steps to Reduce a Number to Zero.runtimeconfig.json
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1342. NUmber of Steps to Reduce a Number to Zero\bin\Debug\net6.0\1342. NUmber of Steps to Reduce a Number to Zero.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1342. NUmber of Steps to Reduce a Number to Zero\bin\Debug\net6.0\1342. NUmber of Steps to Reduce a Number to Zero.pdb
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1342. NUmber of Steps to Reduce a Number to Zero\obj\Debug\net6.0\1342. NUmber of Steps to Reduce a Number to Zero.csproj.AssemblyReference.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1342. NUmber of Steps to Reduce a Number to Zero\obj\Debug\net6.0\1342. NUmber of Steps to Reduce a Number to Zero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1342. NUmber of Steps to Reduce a Number to Zero\obj\Debug\net6.0\1342. NUmber of Steps to Reduce a Number to Zero.AssemblyInfoInputs.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1342. NUmber of Steps to Reduce a Number to Zero\obj\Debug\net6.0\1342. NUmber of Steps to Reduce a Number to Zero.AssemblyInfo.cs
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1342. NUmber of Steps to Reduce a Number to Zero\obj\Debug\net6.0\1342. NUmber of Steps to Reduce a Number to Zero.csproj.CoreCompileInputs.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1342. NUmber of Steps to Reduce a Number to Zero\obj\Debug\net6.0\1342. NUmber of Steps to Reduce a Number to Zero.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1342. NUmber of Steps to Reduce a Number to Zero\obj\Debug\net6.0\refint\1342. NUmber of Steps to Reduce a Number to Zero.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1342. NUmber of Steps to Reduce a Number to Zero\obj\Debug\net6.0\1342. NUmber of Steps to Reduce a Number to Zero.pdb
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1342. NUmber of Steps to Reduce a Number to Zero\obj\Debug\net6.0\1342. NUmber of Steps to Reduce a Number to Zero.genruntimeconfig.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\1342. NUmber of Steps to Reduce a Number to Zero\obj\Debug\net6.0\ref\1342. NUmber of Steps to Reduce a Number to Zero.dll

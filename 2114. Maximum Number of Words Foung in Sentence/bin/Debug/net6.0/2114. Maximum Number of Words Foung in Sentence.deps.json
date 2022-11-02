@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "2114. Maximum Number of Words Foung in Sentence/1.0.0": {
+        "runtime": {
+          "2114. Maximum Number of Words Foung in Sentence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2114. Maximum Number of Words Foung in Sentence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

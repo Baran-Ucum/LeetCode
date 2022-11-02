@@ -1,0 +1,15 @@
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2114. Maximum Number of Words Foung in Sentence\bin\Debug\net6.0\2114. Maximum Number of Words Foung in Sentence.exe
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2114. Maximum Number of Words Foung in Sentence\bin\Debug\net6.0\2114. Maximum Number of Words Foung in Sentence.deps.json
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2114. Maximum Number of Words Foung in Sentence\bin\Debug\net6.0\2114. Maximum Number of Words Foung in Sentence.runtimeconfig.json
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2114. Maximum Number of Words Foung in Sentence\bin\Debug\net6.0\2114. Maximum Number of Words Foung in Sentence.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2114. Maximum Number of Words Foung in Sentence\bin\Debug\net6.0\2114. Maximum Number of Words Foung in Sentence.pdb
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2114. Maximum Number of Words Foung in Sentence\obj\Debug\net6.0\2114. Maximum Number of Words Foung in Sentence.csproj.AssemblyReference.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2114. Maximum Number of Words Foung in Sentence\obj\Debug\net6.0\2114. Maximum Number of Words Foung in Sentence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2114. Maximum Number of Words Foung in Sentence\obj\Debug\net6.0\2114. Maximum Number of Words Foung in Sentence.AssemblyInfoInputs.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2114. Maximum Number of Words Foung in Sentence\obj\Debug\net6.0\2114. Maximum Number of Words Foung in Sentence.AssemblyInfo.cs
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2114. Maximum Number of Words Foung in Sentence\obj\Debug\net6.0\2114. Maximum Number of Words Foung in Sentence.csproj.CoreCompileInputs.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2114. Maximum Number of Words Foung in Sentence\obj\Debug\net6.0\2114. Maximum Number of Words Foung in Sentence.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2114. Maximum Number of Words Foung in Sentence\obj\Debug\net6.0\refint\2114. Maximum Number of Words Foung in Sentence.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2114. Maximum Number of Words Foung in Sentence\obj\Debug\net6.0\2114. Maximum Number of Words Foung in Sentence.pdb
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2114. Maximum Number of Words Foung in Sentence\obj\Debug\net6.0\2114. Maximum Number of Words Foung in Sentence.genruntimeconfig.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2114. Maximum Number of Words Foung in Sentence\obj\Debug\net6.0\ref\2114. Maximum Number of Words Foung in Sentence.dll

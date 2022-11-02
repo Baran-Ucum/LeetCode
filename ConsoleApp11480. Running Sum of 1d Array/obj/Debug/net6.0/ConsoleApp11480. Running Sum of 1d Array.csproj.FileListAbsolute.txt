@@ -1,0 +1,15 @@
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\ConsoleApp11480. Running Sum of 1d Array\bin\Debug\net6.0\ConsoleApp11480. Running Sum of 1d Array.exe
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\ConsoleApp11480. Running Sum of 1d Array\bin\Debug\net6.0\ConsoleApp11480. Running Sum of 1d Array.deps.json
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\ConsoleApp11480. Running Sum of 1d Array\bin\Debug\net6.0\ConsoleApp11480. Running Sum of 1d Array.runtimeconfig.json
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\ConsoleApp11480. Running Sum of 1d Array\bin\Debug\net6.0\ConsoleApp11480. Running Sum of 1d Array.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\ConsoleApp11480. Running Sum of 1d Array\bin\Debug\net6.0\ConsoleApp11480. Running Sum of 1d Array.pdb
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\ConsoleApp11480. Running Sum of 1d Array\obj\Debug\net6.0\ConsoleApp11480. Running Sum of 1d Array.csproj.AssemblyReference.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\ConsoleApp11480. Running Sum of 1d Array\obj\Debug\net6.0\ConsoleApp11480. Running Sum of 1d Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\ConsoleApp11480. Running Sum of 1d Array\obj\Debug\net6.0\ConsoleApp11480. Running Sum of 1d Array.AssemblyInfoInputs.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\ConsoleApp11480. Running Sum of 1d Array\obj\Debug\net6.0\ConsoleApp11480. Running Sum of 1d Array.AssemblyInfo.cs
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\ConsoleApp11480. Running Sum of 1d Array\obj\Debug\net6.0\ConsoleApp11480. Running Sum of 1d Array.csproj.CoreCompileInputs.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\ConsoleApp11480. Running Sum of 1d Array\obj\Debug\net6.0\ConsoleApp11480. Running Sum of 1d Array.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\ConsoleApp11480. Running Sum of 1d Array\obj\Debug\net6.0\refint\ConsoleApp11480. Running Sum of 1d Array.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\ConsoleApp11480. Running Sum of 1d Array\obj\Debug\net6.0\ConsoleApp11480. Running Sum of 1d Array.pdb
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\ConsoleApp11480. Running Sum of 1d Array\obj\Debug\net6.0\ConsoleApp11480. Running Sum of 1d Array.genruntimeconfig.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\ConsoleApp11480. Running Sum of 1d Array\obj\Debug\net6.0\ref\ConsoleApp11480. Running Sum of 1d Array.dll

@@ -1,0 +1,15 @@
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\9.Palindrome Number\bin\Debug\net6.0\09.Palindrome Number.exe
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\9.Palindrome Number\bin\Debug\net6.0\09.Palindrome Number.deps.json
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\9.Palindrome Number\bin\Debug\net6.0\09.Palindrome Number.runtimeconfig.json
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\9.Palindrome Number\bin\Debug\net6.0\09.Palindrome Number.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\9.Palindrome Number\bin\Debug\net6.0\09.Palindrome Number.pdb
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\9.Palindrome Number\obj\Debug\net6.0\09.Palindrome Number.csproj.AssemblyReference.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\9.Palindrome Number\obj\Debug\net6.0\09.Palindrome Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\9.Palindrome Number\obj\Debug\net6.0\09.Palindrome Number.AssemblyInfoInputs.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\9.Palindrome Number\obj\Debug\net6.0\09.Palindrome Number.AssemblyInfo.cs
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\9.Palindrome Number\obj\Debug\net6.0\09.Palindrome Number.csproj.CoreCompileInputs.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\9.Palindrome Number\obj\Debug\net6.0\09.Palindrome Number.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\9.Palindrome Number\obj\Debug\net6.0\refint\09.Palindrome Number.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\9.Palindrome Number\obj\Debug\net6.0\09.Palindrome Number.pdb
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\9.Palindrome Number\obj\Debug\net6.0\09.Palindrome Number.genruntimeconfig.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\9.Palindrome Number\obj\Debug\net6.0\ref\09.Palindrome Number.dll

@@ -1,0 +1,15 @@
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\766. Teoplitz Matrix\bin\Debug\net6.0\766. Teoplitz Matrix.exe
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\766. Teoplitz Matrix\bin\Debug\net6.0\766. Teoplitz Matrix.deps.json
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\766. Teoplitz Matrix\bin\Debug\net6.0\766. Teoplitz Matrix.runtimeconfig.json
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\766. Teoplitz Matrix\bin\Debug\net6.0\766. Teoplitz Matrix.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\766. Teoplitz Matrix\bin\Debug\net6.0\766. Teoplitz Matrix.pdb
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\766. Teoplitz Matrix\obj\Debug\net6.0\766. Teoplitz Matrix.csproj.AssemblyReference.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\766. Teoplitz Matrix\obj\Debug\net6.0\766. Teoplitz Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\766. Teoplitz Matrix\obj\Debug\net6.0\766. Teoplitz Matrix.AssemblyInfoInputs.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\766. Teoplitz Matrix\obj\Debug\net6.0\766. Teoplitz Matrix.AssemblyInfo.cs
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\766. Teoplitz Matrix\obj\Debug\net6.0\766. Teoplitz Matrix.csproj.CoreCompileInputs.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\766. Teoplitz Matrix\obj\Debug\net6.0\766. Teoplitz Matrix.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\766. Teoplitz Matrix\obj\Debug\net6.0\refint\766. Teoplitz Matrix.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\766. Teoplitz Matrix\obj\Debug\net6.0\766. Teoplitz Matrix.pdb
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\766. Teoplitz Matrix\obj\Debug\net6.0\766. Teoplitz Matrix.genruntimeconfig.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\766. Teoplitz Matrix\obj\Debug\net6.0\ref\766. Teoplitz Matrix.dll

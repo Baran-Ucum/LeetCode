@@ -1,0 +1,15 @@
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2.Add Two Numbers\bin\Debug\net6.0\2.Add Two Numbers.exe
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2.Add Two Numbers\bin\Debug\net6.0\2.Add Two Numbers.deps.json
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2.Add Two Numbers\bin\Debug\net6.0\2.Add Two Numbers.runtimeconfig.json
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2.Add Two Numbers\bin\Debug\net6.0\2.Add Two Numbers.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2.Add Two Numbers\bin\Debug\net6.0\2.Add Two Numbers.pdb
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2.Add Two Numbers\obj\Debug\net6.0\2.Add Two Numbers.csproj.AssemblyReference.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2.Add Two Numbers\obj\Debug\net6.0\2.Add Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2.Add Two Numbers\obj\Debug\net6.0\2.Add Two Numbers.AssemblyInfoInputs.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2.Add Two Numbers\obj\Debug\net6.0\2.Add Two Numbers.AssemblyInfo.cs
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2.Add Two Numbers\obj\Debug\net6.0\2.Add Two Numbers.csproj.CoreCompileInputs.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2.Add Two Numbers\obj\Debug\net6.0\2.Add Two Numbers.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2.Add Two Numbers\obj\Debug\net6.0\refint\2.Add Two Numbers.dll
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2.Add Two Numbers\obj\Debug\net6.0\2.Add Two Numbers.pdb
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2.Add Two Numbers\obj\Debug\net6.0\2.Add Two Numbers.genruntimeconfig.cache
+C:\Users\baran.ucum\Desktop\LetCode\Algorithms\LetCodeAlgorithmsProblems\2.Add Two Numbers\obj\Debug\net6.0\ref\2.Add Two Numbers.dll
